@@ -1,7 +1,8 @@
 # awesome-python3-webapp
 亲手打造web框架
 
-
+框架结构如下：
+awesome-python3-webapp/  <-- 根目录
 框架结构如下：
 awesome-python3-webapp/  <-- 根目录
 |
