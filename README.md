@@ -2,7 +2,7 @@
 亲手打造web框架
 
 
-框架结构如下：
+框架结构如下：\n
 awesome-python3-webapp/  <-- 根目录
 |
 +- backup/               <-- 备份目录
